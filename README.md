@@ -1,1 +1,60 @@
-# Tiny-TPU
+# 🧠 Tiny TPU  
+### A Minimal Tensor Processing Unit for Edge AI & Education
+
+<!-- ================= BADGES ================= -->
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Sam-bot-dev/tiny-tpu?style=flat-square" />
+  <img src="https://img.shields.io/github/forks/Sam-bot-dev/tiny-tpu?style=flat-square" />
+  <img src="https://img.shields.io/github/issues/Sam-bot-dev/tiny-tpu?style=flat-square" />
+  <img src="https://img.shields.io/github/issues-pr/Sam-bot-dev/tiny-tpu?style=flat-square" />
+  <img src="https://img.shields.io/github/license/Sam-bot-dev/tiny-tpu?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/build-experimental-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hardware-Verilog-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI-Tensor%20Acceleration-purple?style=flat-square" />
+</p>
+
+---
+
+## 📌 Overview
+
+**Tiny TPU** is a **lightweight, open-source Tensor Processing Unit (TPU)** built for **learning, experimentation, and research**.
+
+It demonstrates how **AI accelerators** perform tensor operations such as **matrix multiplication** using parallel hardware units — inspired by real-world TPUs but simplified and transparent.
+
+This project is ideal for:
+- Students learning computer architecture
+- AI + hardware enthusiasts
+- Open-source contributors
+- Resume-worthy system-level projects
+
+---
+
+## 🚀 Why Tiny TPU?
+
+Big tech companies keep accelerator designs closed.  
+**Tiny TPU opens the black box.**
+
+✔ Understand how AI chips work  
+✔ Combine ML + hardware knowledge  
+✔ Learn systolic & MAC-based designs  
+✔ Open-source and beginner-friendly  
+
+---
+
+## ✨ Features
+
+- ⚙️ Matrix Multiply Engine (MAC-based)
+- 🧮 Fixed-point arithmetic (8/16-bit)
+- 🔄 Parallel processing units
+- 🧠 AI-oriented dataflow
+- 📦 Modular RTL design
+- 🧪 Fully simulation-ready
+
+---
+
+## 🏗 High-Level Architecture
+
