@@ -3,11 +3,11 @@
 
 <!-- ================= BADGES ================= -->
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Sam-bot-dev/tiny-tpu?style=flat-square" />
-  <img src="https://img.shields.io/github/forks/Sam-bot-dev/tiny-tpu?style=flat-square" />
-  <img src="https://img.shields.io/github/issues/Sam-bot-dev/tiny-tpu?style=flat-square" />
-  <img src="https://img.shields.io/github/issues-pr/Sam-bot-dev/tiny-tpu?style=flat-square" />
-  <img src="https://img.shields.io/github/license/Sam-bot-dev/tiny-tpu?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/Sam-bot-dev/Tiny-TPU?style=flat-square" />
+  <img src="https://img.shields.io/github/forks/Sam-bot-dev/Tiny-TPU?style=flat-square" />
+  <img src="https://img.shields.io/github/issues/Sam-bot-dev/Tiny-TPU?style=flat-square" />
+  <img src="https://img.shields.io/github/issues-pr/Sam-bot-dev/Tiny-TPU?style=flat-square" />
+  <img src="https://img.shields.io/github/license/Sam-bot-dev/Tiny-TPU?style=flat-square" />
 
 </p>
 
