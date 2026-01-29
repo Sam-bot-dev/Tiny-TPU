@@ -7,7 +7,8 @@
   <img src="https://img.shields.io/github/forks/Sam-bot-dev/tiny-tpu?style=flat-square" />
   <img src="https://img.shields.io/github/issues/Sam-bot-dev/tiny-tpu?style=flat-square" />
   <img src="https://img.shields.io/github/issues-pr/Sam-bot-dev/tiny-tpu?style=flat-square" />
-  
+  <img src="https://img.shields.io/github/license/Sam-bot-dev/tiny-tpu?style=flat-square" />
+
 </p>
 
 <p align="center">
