@@ -58,3 +58,71 @@ Big tech companies keep accelerator designs closed.
 
 ## 🏗 High-Level Architecture
 
+```text
++-------------------+
+|   Input Buffer    |
++-------------------+
+         |
+         v
++-------------------+
+| Matrix Multiply   |
+| Engine (MACs)     |
++-------------------+
+         |
+         v
++-------------------+
+| Accumulator &     |
+| Output Buffer     |
++-------------------+
+```
+
+---
+
+## 🛠 Tech Stack
+
+| Layer | Technology |
+|-----|------------|
+| RTL Design | Verilog / SystemVerilog |
+| Simulation | Icarus Verilog |
+| Waveform | GTKWave |
+| Control | FSM-based |
+| Verification | Python (optional) |
+
+---
+
+## 📂 Project Structure
+
+```text
+tiny-tpu/
+├── rtl/
+│ ├── mac_unit.v
+│ ├── matrix_engine.v
+│ ├── controller.v
+│ └── top.v
+│
+├── testbench/
+│ └── tb_top.v
+│
+├── scripts/
+│ └── simulate.sh
+│
+├── docs/
+│ └── architecture.md
+│
+├── LICENSE
+└── README.md
+```
+
+---
+
+## 🧪 Getting Started
+
+### Prerequisites
+- Icarus Verilog
+- GTKWave
+- Linux / macOS
+
+### Clone Repository
+```bash
+git clone https://github.com/Sam-bot-dev/tiny-tpu.git
+cd tiny-tpu
