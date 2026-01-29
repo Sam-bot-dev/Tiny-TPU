@@ -126,3 +126,14 @@ tiny-tpu/
 ```bash
 git clone https://github.com/Sam-bot-dev/tiny-tpu.git
 cd tiny-tpu
+```
+---
+
+## 📜 License
+
+### Licensed under the MIT License — free to use, modify, and distribute.
+
+## ⭐ Support
+
+### If this project helped you learn something new, give it a star ⭐
+### It helps others discover open hardware projects.
